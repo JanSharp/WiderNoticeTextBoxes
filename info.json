@@ -5,7 +5,7 @@
   "title": "Wider Notice Text Boxes",
   "author": "JanSharp",
   "contact": "",
-  "homepage": "",
+  "homepage": "https://github.com/JanSharp/WiderNoticeTextBoxes",
   "description": "Doubles notice_textbox maximal_width, specifically to make script errors easier to read.",
   "dependencies": [
     
