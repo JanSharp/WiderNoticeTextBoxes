@@ -1,0 +1,13 @@
+{
+  "name": "WiderNoticeTextBoxes",
+  "version": "1.1.0",
+  "factorio_version": "1.1",
+  "title": "Wider Notice Text Boxes",
+  "author": "JanSharp",
+  "contact": "",
+  "homepage": "",
+  "description": "Doubles notice_textbox maximal_width, specifically to make script errors easier to read",
+  "dependencies": [
+    
+  ]
+}
