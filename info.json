@@ -6,7 +6,7 @@
   "author": "JanSharp",
   "contact": "",
   "homepage": "",
-  "description": "Doubles notice_textbox maximal_width, specifically to make script errors easier to read",
+  "description": "Doubles notice_textbox maximal_width, specifically to make script errors easier to read.",
   "dependencies": [
     
   ]
